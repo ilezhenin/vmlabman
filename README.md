@@ -1,2 +1,2 @@
-# fluffy-computing-machine
+# Virtual Machine Lab Manager
 vmlabman
